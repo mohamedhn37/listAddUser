@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.names{
+    margin: 20vh auto;
+    width: 25%;
+}
+.names input{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+.names button{
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 15px;
+}
+.names button:hover{
+    background-color: bisque;
+}
+.names ul {
+    list-style: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 40px;
+    margin-top: 10px;
+}
